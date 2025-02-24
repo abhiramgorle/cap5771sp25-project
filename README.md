@@ -1,4 +1,4 @@
-# F1 Race Analysis Project
+# Formula 1 Race Position Performance- Stock Price Analysis
 
 This repository contains Jupyter notebooks for analyzing Formula 1 racing data. Follow the instructions below to set up and run the analysis.
 

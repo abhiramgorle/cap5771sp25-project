@@ -1,2 +1,4 @@
-Scripts/f1_cache
-.venv
+
+/venv/
+/Scripts/f1_cache/
+

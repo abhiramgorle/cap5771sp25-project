@@ -1,0 +1,1184 @@
+race_id,race_name,race_date,year,round,position,points,wins,pre_race_price,post_race_price,price_change_pct,pre_window,post_window
+943,Mexican Grand Prix,2015-11-01,2015,17.0,2.0,374.0,3,"Ticker
+RACE    48.863449
+dtype: float64","Ticker
+RACE    49.027452
+dtype: float64","Ticker
+RACE    0.335635
+dtype: float64",5,5
+944,Brazilian Grand Prix,2015-11-15,2015,18.0,2.0,401.0,3,"Ticker
+RACE    49.771055
+dtype: float64","Ticker
+RACE    44.998206
+dtype: float64","Ticker
+RACE   -9.589608
+dtype: float64",5,5
+945,Abu Dhabi Grand Prix,2015-11-29,2015,19.0,2.0,428.0,3,"Ticker
+RACE    43.251955
+dtype: float64","Ticker
+RACE    44.133467
+dtype: float64","Ticker
+RACE    2.038087
+dtype: float64",5,5
+948,Australian Grand Prix,2016-03-20,2016,1.0,2.0,15.0,0,"Ticker
+RACE    39.289799
+dtype: float64","Ticker
+RACE    38.508923
+dtype: float64","Ticker
+RACE   -1.987478
+dtype: float64",5,5
+949,Bahrain Grand Prix,2016-04-03,2016,2.0,2.0,33.0,0,"Ticker
+RACE    38.70461
+dtype: float64","Ticker
+RACE    38.125008
+dtype: float64","Ticker
+RACE   -1.497501
+dtype: float64",5,5
+950,Chinese Grand Prix,2016-04-17,2016,3.0,2.0,61.0,0,"Ticker
+RACE    39.34571
+dtype: float64","Ticker
+RACE    40.961505
+dtype: float64","Ticker
+RACE    4.106662
+dtype: float64",5,5
+951,Russian Grand Prix,2016-05-01,2016,4.0,2.0,76.0,0,"Ticker
+RACE    41.341692
+dtype: float64","Ticker
+RACE    40.73414
+dtype: float64","Ticker
+RACE   -1.469587
+dtype: float64",5,5
+952,Spanish Grand Prix,2016-05-15,2016,5.0,2.0,109.0,0,"Ticker
+RACE    40.309227
+dtype: float64","Ticker
+RACE    38.967386
+dtype: float64","Ticker
+RACE   -3.328868
+dtype: float64",5,5
+953,Monaco Grand Prix,2016-05-29,2016,6.0,2.0,121.0,0,"Ticker
+RACE    39.127728
+dtype: float64","Ticker
+RACE    40.51497
+dtype: float64","Ticker
+RACE    3.545418
+dtype: float64",5,5
+954,Canadian Grand Prix,2016-06-12,2016,7.0,2.0,147.0,0,"Ticker
+RACE    40.888674
+dtype: float64","Ticker
+RACE    39.205114
+dtype: float64","Ticker
+RACE   -4.117424
+dtype: float64",5,5
+955,European Grand Prix,2016-06-19,2016,8.0,2.0,177.0,0,"Ticker
+RACE    39.205114
+dtype: float64","Ticker
+RACE    40.041231
+dtype: float64","Ticker
+RACE    2.132673
+dtype: float64",5,5
+956,Austrian Grand Prix,2016-07-03,2016,9.0,2.0,192.0,0,"Ticker
+RACE    38.027375
+dtype: float64","Ticker
+RACE    38.295386
+dtype: float64","Ticker
+RACE    0.704784
+dtype: float64",5,5
+957,British Grand Prix,2016-07-10,2016,10.0,2.0,204.0,0,"Ticker
+RACE    38.191579
+dtype: float64","Ticker
+RACE    39.986497
+dtype: float64","Ticker
+RACE    4.699776
+dtype: float64",5,5
+958,Hungarian Grand Prix,2016-07-24,2016,11.0,2.0,224.0,0,"Ticker
+RACE    40.029907
+dtype: float64","Ticker
+RACE    41.749328
+dtype: float64","Ticker
+RACE    4.29534
+dtype: float64",5,5
+959,German Grand Prix,2016-07-31,2016,12.0,3.0,242.0,0,"Ticker
+RACE    41.749328
+dtype: float64","Ticker
+RACE    43.923617
+dtype: float64","Ticker
+RACE    5.207962
+dtype: float64",5,5
+960,Belgian Grand Prix,2016-08-28,2016,13.0,3.0,252.0,0,"Ticker
+RACE    45.899729
+dtype: float64","Ticker
+RACE    45.709098
+dtype: float64","Ticker
+RACE   -0.415321
+dtype: float64",5,5
+961,Italian Grand Prix,2016-09-04,2016,14.0,3.0,279.0,0,"Ticker
+RACE    45.709098
+dtype: float64","Ticker
+RACE    46.192272
+dtype: float64","Ticker
+RACE    1.057063
+dtype: float64",5,5
+962,Singapore Grand Prix,2016-09-18,2016,15.0,3.0,301.0,0,"Ticker
+RACE    44.956026
+dtype: float64","Ticker
+RACE    46.269658
+dtype: float64","Ticker
+RACE    2.922036
+dtype: float64",5,5
+963,Malaysian Grand Prix,2016-10-02,2016,16.0,3.0,313.0,0,"Ticker
+RACE    48.051366
+dtype: float64","Ticker
+RACE    50.018038
+dtype: float64","Ticker
+RACE    4.092853
+dtype: float64",5,5
+964,Japanese Grand Prix,2016-10-09,2016,17.0,3.0,335.0,0,"Ticker
+RACE    50.018038
+dtype: float64","Ticker
+RACE    50.186018
+dtype: float64","Ticker
+RACE    0.335839
+dtype: float64",5,5
+965,United States Grand Prix,2016-10-23,2016,18.0,3.0,347.0,0,"Ticker
+RACE    49.551851
+dtype: float64","Ticker
+RACE    50.061448
+dtype: float64","Ticker
+RACE    1.028412
+dtype: float64",5,5
+966,Mexican Grand Prix,2016-10-30,2016,19.0,3.0,365.0,0,"Ticker
+RACE    50.061448
+dtype: float64","Ticker
+RACE    48.498684
+dtype: float64","Ticker
+RACE   -3.121692
+dtype: float64",5,5
+967,Brazilian Grand Prix,2016-11-13,2016,20.0,3.0,375.0,0,"Ticker
+RACE    51.246738
+dtype: float64","Ticker
+RACE    50.369097
+dtype: float64","Ticker
+RACE   -1.712578
+dtype: float64",5,5
+968,Abu Dhabi Grand Prix,2016-11-27,2016,21.0,3.0,398.0,0,"Ticker
+RACE    50.767339
+dtype: float64","Ticker
+RACE    51.184455
+dtype: float64","Ticker
+RACE    0.821622
+dtype: float64",5,5
+969,Australian Grand Prix,2017-03-26,2017,1.0,1.0,37.0,1,"Ticker
+RACE    65.22295
+dtype: float64","Ticker
+RACE    70.296288
+dtype: float64","Ticker
+RACE    7.778455
+dtype: float64",5,5
+970,Chinese Grand Prix,2017-04-09,2017,2.0,2.0,65.0,1,"Ticker
+RACE    68.74673
+dtype: float64","Ticker
+RACE    67.451968
+dtype: float64","Ticker
+RACE   -1.883379
+dtype: float64",5,5
+971,Bahrain Grand Prix,2017-04-16,2017,3.0,1.0,102.0,2,"Ticker
+RACE    67.559552
+dtype: float64","Ticker
+RACE    67.076372
+dtype: float64","Ticker
+RACE   -0.715192
+dtype: float64",5,5
+972,Russian Grand Prix,2017-04-30,2017,4.0,2.0,135.0,2,"Ticker
+RACE    71.123643
+dtype: float64","Ticker
+RACE    74.557764
+dtype: float64","Ticker
+RACE    4.828381
+dtype: float64",5,5
+973,Spanish Grand Prix,2017-05-14,2017,5.0,2.0,153.0,2,"Ticker
+RACE    79.714667
+dtype: float64","Ticker
+RACE    80.00433
+dtype: float64","Ticker
+RACE    0.363376
+dtype: float64",5,5
+974,Monaco Grand Prix,2017-05-28,2017,6.0,1.0,196.0,3,"Ticker
+RACE    81.075352
+dtype: float64","Ticker
+RACE    84.202654
+dtype: float64","Ticker
+RACE    3.857277
+dtype: float64",5,5
+975,Canadian Grand Prix,2017-06-11,2017,7.0,2.0,214.0,3,"Ticker
+RACE    86.295145
+dtype: float64","Ticker
+RACE    83.840567
+dtype: float64","Ticker
+RACE   -2.844398
+dtype: float64",5,5
+976,Azerbaijan Grand Prix,2017-06-25,2017,8.0,2.0,226.0,3,"Ticker
+RACE    85.046898
+dtype: float64","Ticker
+RACE    83.066833
+dtype: float64","Ticker
+RACE   -2.328203
+dtype: float64",5,5
+977,Austrian Grand Prix,2017-07-09,2017,9.0,2.0,254.0,3,"Ticker
+RACE    81.929112
+dtype: float64","Ticker
+RACE    87.404276
+dtype: float64","Ticker
+RACE    6.682806
+dtype: float64",5,5
+978,British Grand Prix,2017-07-16,2017,10.0,2.0,275.0,3,"Ticker
+RACE    87.404276
+dtype: float64","Ticker
+RACE    92.719345
+dtype: float64","Ticker
+RACE    6.081018
+dtype: float64",5,5
+979,Hungarian Grand Prix,2017-07-30,2017,11.0,2.0,318.0,4,"Ticker
+RACE    98.762405
+dtype: float64","Ticker
+RACE    103.189413
+dtype: float64","Ticker
+RACE    4.482483
+dtype: float64",5,5
+980,Belgian Grand Prix,2017-08-27,2017,12.0,2.0,348.0,4,"Ticker
+RACE    108.973297
+dtype: float64","Ticker
+RACE    109.282022
+dtype: float64","Ticker
+RACE    0.283303
+dtype: float64",5,5
+981,Italian Grand Prix,2017-09-03,2017,13.0,2.0,373.0,4,"Ticker
+RACE    109.282022
+dtype: float64","Ticker
+RACE    107.185722
+dtype: float64","Ticker
+RACE   -1.918248
+dtype: float64",5,5
+982,Singapore Grand Prix,2017-09-17,2017,14.0,2.0,373.0,4,"Ticker
+RACE    104.719714
+dtype: float64","Ticker
+RACE    107.839383
+dtype: float64","Ticker
+RACE    2.979065
+dtype: float64",5,5
+983,Malaysian Grand Prix,2017-10-01,2017,15.0,2.0,385.0,4,"Ticker
+RACE    104.855016
+dtype: float64","Ticker
+RACE    108.050922
+dtype: float64","Ticker
+RACE    3.047929
+dtype: float64",5,5
+984,Japanese Grand Prix,2017-10-08,2017,16.0,2.0,395.0,4,"Ticker
+RACE    108.050922
+dtype: float64","Ticker
+RACE    110.164371
+dtype: float64","Ticker
+RACE    1.955975
+dtype: float64",5,5
+985,United States Grand Prix,2017-10-22,2017,17.0,2.0,428.0,4,"Ticker
+RACE    110.46548
+dtype: float64","Ticker
+RACE    109.32776
+dtype: float64","Ticker
+RACE   -1.029932
+dtype: float64",5,5
+986,Mexican Grand Prix,2017-10-29,2017,18.0,2.0,455.0,4,"Ticker
+RACE    109.32776
+dtype: float64","Ticker
+RACE    112.70471
+dtype: float64","Ticker
+RACE    3.088831
+dtype: float64",5,5
+987,Brazilian Grand Prix,2017-11-12,2017,19.0,2.0,495.0,5,"Ticker
+RACE    107.471579
+dtype: float64","Ticker
+RACE    104.443382
+dtype: float64","Ticker
+RACE   -2.817672
+dtype: float64",5,5
+988,Abu Dhabi Grand Prix,2017-11-26,2017,20.0,2.0,522.0,5,"Ticker
+RACE    106.028944
+dtype: float64","Ticker
+RACE    104.428136
+dtype: float64","Ticker
+RACE   -1.509785
+dtype: float64",5,5
+989,Australian Grand Prix,2018-03-25,2018,1.0,1.0,40.0,1,"Ticker
+RACE    115.349863
+dtype: float64","Ticker
+RACE    114.09017
+dtype: float64","Ticker
+RACE   -1.092062
+dtype: float64",5,5
+990,Bahrain Grand Prix,2018-04-08,2018,2.0,1.0,65.0,2,"Ticker
+RACE    114.469412
+dtype: float64","Ticker
+RACE    115.711948
+dtype: float64","Ticker
+RACE    1.085474
+dtype: float64",5,5
+991,Chinese Grand Prix,2018-04-15,2018,3.0,2.0,84.0,2,"Ticker
+RACE    115.711948
+dtype: float64","Ticker
+RACE    117.947363
+dtype: float64","Ticker
+RACE    1.93188
+dtype: float64",5,5
+992,Azerbaijan Grand Prix,2018-04-29,2018,4.0,1.0,114.0,2,"Ticker
+RACE    117.546057
+dtype: float64","Ticker
+RACE    122.7034
+dtype: float64","Ticker
+RACE    4.387508
+dtype: float64",5,5
+993,Spanish Grand Prix,2018-05-13,2018,5.0,2.0,126.0,2,"Ticker
+RACE    131.365521
+dtype: float64","Ticker
+RACE    128.442308
+dtype: float64","Ticker
+RACE   -2.225251
+dtype: float64",5,5
+994,Monaco Grand Prix,2018-05-27,2018,6.0,2.0,156.0,2,"Ticker
+RACE    126.768625
+dtype: float64","Ticker
+RACE    125.482649
+dtype: float64","Ticker
+RACE   -1.014427
+dtype: float64",5,5
+995,Canadian Grand Prix,2018-06-10,2018,7.0,2.0,189.0,3,"Ticker
+RACE    130.712932
+dtype: float64","Ticker
+RACE    138.561243
+dtype: float64","Ticker
+RACE    6.004234
+dtype: float64",5,5
+996,French Grand Prix,2018-06-24,2018,8.0,2.0,214.0,3,"Ticker
+RACE    137.590036
+dtype: float64","Ticker
+RACE    130.377042
+dtype: float64","Ticker
+RACE   -5.242381
+dtype: float64",5,5
+997,Austrian Grand Prix,2018-07-01,2018,9.0,1.0,247.0,3,"Ticker
+RACE    130.377042
+dtype: float64","Ticker
+RACE    129.897198
+dtype: float64","Ticker
+RACE   -0.368043
+dtype: float64",5,5
+998,British Grand Prix,2018-07-08,2018,10.0,1.0,287.0,4,"Ticker
+RACE    129.634244
+dtype: float64","Ticker
+RACE    132.908691
+dtype: float64","Ticker
+RACE    2.525913
+dtype: float64",5,5
+999,German Grand Prix,2018-07-22,2018,11.0,2.0,302.0,4,"Ticker
+RACE    136.511349
+dtype: float64","Ticker
+RACE    128.116031
+dtype: float64","Ticker
+RACE   -6.149905
+dtype: float64",5,5
+1000,Hungarian Grand Prix,2018-07-29,2018,12.0,2.0,335.0,4,"Ticker
+RACE    128.116031
+dtype: float64","Ticker
+RACE    121.331052
+dtype: float64","Ticker
+RACE   -5.295964
+dtype: float64",5,5
+1001,Belgian Grand Prix,2018-08-26,2018,13.0,2.0,360.0,5,"Ticker
+RACE    120.359845
+dtype: float64","Ticker
+RACE    125.998958
+dtype: float64","Ticker
+RACE    4.685211
+dtype: float64",5,5
+1002,Italian Grand Prix,2018-09-02,2018,14.0,2.0,390.0,5,"Ticker
+RACE    125.998958
+dtype: float64","Ticker
+RACE    122.018187
+dtype: float64","Ticker
+RACE   -3.159368
+dtype: float64",5,5
+1003,Singapore Grand Prix,2018-09-16,2018,15.0,2.0,415.0,5,"Ticker
+RACE    125.653471
+dtype: float64","Ticker
+RACE    130.841524
+dtype: float64","Ticker
+RACE    4.128857
+dtype: float64",5,5
+1004,Russian Grand Prix,2018-09-30,2018,16.0,2.0,442.0,5,"Ticker
+RACE    133.574713
+dtype: float64","Ticker
+RACE    129.843456
+dtype: float64","Ticker
+RACE   -2.793386
+dtype: float64",5,5
+1005,Japanese Grand Prix,2018-10-07,2018,17.0,2.0,460.0,5,"Ticker
+RACE    129.843456
+dtype: float64","Ticker
+RACE    116.716882
+dtype: float64","Ticker
+RACE   -10.109538
+dtype: float64",5,5
+1006,United States Grand Prix,2018-10-21,2018,18.0,2.0,497.0,6,"Ticker
+RACE    112.561452
+dtype: float64","Ticker
+RACE    110.344579
+dtype: float64","Ticker
+RACE   -1.969478
+dtype: float64",5,5
+1007,Mexican Grand Prix,2018-10-28,2018,19.0,2.0,530.0,6,"Ticker
+RACE    110.344579
+dtype: float64","Ticker
+RACE    112.843599
+dtype: float64","Ticker
+RACE    2.264742
+dtype: float64",5,5
+1008,Brazilian Grand Prix,2018-11-11,2018,20.0,2.0,553.0,6,"Ticker
+RACE    110.154561
+dtype: float64","Ticker
+RACE    105.444429
+dtype: float64","Ticker
+RACE   -4.27593
+dtype: float64",5,5
+1009,Abu Dhabi Grand Prix,2018-11-25,2018,21.0,2.0,571.0,6,"Ticker
+RACE    103.298573
+dtype: float64","Ticker
+RACE    103.862865
+dtype: float64","Ticker
+RACE    0.546272
+dtype: float64",5,5
+1010,Australian Grand Prix,2019-03-17,2019,1.0,2.0,22.0,0,"Ticker
+RACE    125.521037
+dtype: float64","Ticker
+RACE    126.041187
+dtype: float64","Ticker
+RACE    0.414392
+dtype: float64",5,5
+1011,Bahrain Grand Prix,2019-03-31,2019,2.0,2.0,48.0,0,"Ticker
+RACE    127.390506
+dtype: float64","Ticker
+RACE    130.63425
+dtype: float64","Ticker
+RACE    2.5463
+dtype: float64",5,5
+1012,Chinese Grand Prix,2019-04-14,2019,3.0,2.0,73.0,0,"Ticker
+RACE    131.651514
+dtype: float64","Ticker
+RACE    132.891415
+dtype: float64","Ticker
+RACE    0.941806
+dtype: float64",5,5
+1013,Azerbaijan Grand Prix,2019-04-28,2019,4.0,2.0,99.0,0,"Ticker
+RACE    132.556039
+dtype: float64","Ticker
+RACE    130.645575
+dtype: float64","Ticker
+RACE   -1.44125
+dtype: float64",5,5
+1014,Spanish Grand Prix,2019-05-12,2019,5.0,2.0,121.0,0,"Ticker
+RACE    134.233862
+dtype: float64","Ticker
+RACE    137.280243
+dtype: float64","Ticker
+RACE    2.269458
+dtype: float64",5,5
+1015,Monaco Grand Prix,2019-05-26,2019,6.0,2.0,139.0,0,"Ticker
+RACE    138.36214
+dtype: float64","Ticker
+RACE    138.495697
+dtype: float64","Ticker
+RACE    0.096527
+dtype: float64",5,5
+1016,Canadian Grand Prix,2019-06-09,2019,7.0,2.0,172.0,0,"Ticker
+RACE    141.033035
+dtype: float64","Ticker
+RACE    149.047668
+dtype: float64","Ticker
+RACE    5.682806
+dtype: float64",5,5
+1017,French Grand Prix,2019-06-23,2019,8.0,2.0,198.0,0,"Ticker
+RACE    153.586261
+dtype: float64","Ticker
+RACE    155.556534
+dtype: float64","Ticker
+RACE    1.282844
+dtype: float64",5,5
+1018,Austrian Grand Prix,2019-06-30,2019,9.0,2.0,228.0,0,"Ticker
+RACE    155.556534
+dtype: float64","Ticker
+RACE    160.114478
+dtype: float64","Ticker
+RACE    2.930088
+dtype: float64",5,5
+1019,British Grand Prix,2019-07-14,2019,10.0,2.0,243.0,0,"Ticker
+RACE    160.917679
+dtype: float64","Ticker
+RACE    162.874399
+dtype: float64","Ticker
+RACE    1.215976
+dtype: float64",5,5
+1020,German Grand Prix,2019-07-28,2019,11.0,2.0,261.0,0,"Ticker
+RACE    161.639594
+dtype: float64","Ticker
+RACE    156.456509
+dtype: float64","Ticker
+RACE   -3.206568
+dtype: float64",5,5
+1021,Hungarian Grand Prix,2019-08-04,2019,12.0,2.0,288.0,0,"Ticker
+RACE    156.456509
+dtype: float64","Ticker
+RACE    152.986276
+dtype: float64","Ticker
+RACE   -2.218018
+dtype: float64",5,5
+1022,Belgian Grand Prix,2019-09-01,2019,13.0,2.0,326.0,1,"Ticker
+RACE    153.017245
+dtype: float64","Ticker
+RACE    155.556528
+dtype: float64","Ticker
+RACE    1.659475
+dtype: float64",5,5
+1023,Italian Grand Prix,2019-09-08,2019,14.0,2.0,351.0,2,"Ticker
+RACE    154.977835
+dtype: float64","Ticker
+RACE    149.099936
+dtype: float64","Ticker
+RACE   -3.792735
+dtype: float64",5,5
+1024,Singapore Grand Prix,2019-09-22,2019,15.0,2.0,394.0,3,"Ticker
+RACE    148.138025
+dtype: float64","Ticker
+RACE    146.5858
+dtype: float64","Ticker
+RACE   -1.047823
+dtype: float64",5,5
+1025,Russian Grand Prix,2019-09-29,2019,16.0,2.0,409.0,3,"Ticker
+RACE    146.5858
+dtype: float64","Ticker
+RACE    145.53486
+dtype: float64","Ticker
+RACE   -0.716945
+dtype: float64",5,5
+1026,Japanese Grand Prix,2019-10-13,2019,17.0,2.0,435.0,3,"Ticker
+RACE    145.176813
+dtype: float64","Ticker
+RACE    151.776639
+dtype: float64","Ticker
+RACE    4.546061
+dtype: float64",5,5
+1027,Mexican Grand Prix,2019-10-27,2019,18.0,2.0,466.0,3,"Ticker
+RACE    149.616681
+dtype: float64","Ticker
+RACE    153.84173
+dtype: float64","Ticker
+RACE    2.823916
+dtype: float64",5,5
+1028,United States Grand Prix,2019-11-03,2019,19.0,2.0,479.0,3,"Ticker
+RACE    153.84173
+dtype: float64","Ticker
+RACE    160.813168
+dtype: float64","Ticker
+RACE    4.531565
+dtype: float64",5,5
+1029,Brazilian Grand Prix,2019-11-17,2019,20.0,2.0,479.0,3,"Ticker
+RACE    159.818353
+dtype: float64","Ticker
+RACE    159.603531
+dtype: float64","Ticker
+RACE   -0.134417
+dtype: float64",5,5
+1030,Abu Dhabi Grand Prix,2019-12-01,2019,21.0,2.0,504.0,3,"Ticker
+RACE    162.982788
+dtype: float64","Ticker
+RACE    161.387985
+dtype: float64","Ticker
+RACE   -0.97851
+dtype: float64",5,5
+1031,Austrian Grand Prix,2020-07-05,2020,1.0,3.0,19.0,0,"Ticker
+RACE    166.888165
+dtype: float64","Ticker
+RACE    172.013531
+dtype: float64","Ticker
+RACE    3.071138
+dtype: float64",5,5
+1032,Styrian Grand Prix,2020-07-12,2020,2.0,5.0,19.0,0,"Ticker
+RACE    172.013531
+dtype: float64","Ticker
+RACE    173.259769
+dtype: float64","Ticker
+RACE    0.7245
+dtype: float64",5,5
+1033,Hungarian Grand Prix,2020-07-19,2020,3.0,5.0,27.0,0,"Ticker
+RACE    173.259769
+dtype: float64","Ticker
+RACE    176.703976
+dtype: float64","Ticker
+RACE    1.987887
+dtype: float64",5,5
+1034,British Grand Prix,2020-08-02,2020,4.0,4.0,43.0,0,"Ticker
+RACE    176.255414
+dtype: float64","Ticker
+RACE    181.626505
+dtype: float64","Ticker
+RACE    3.047334
+dtype: float64",5,5
+1035,70th Anniversary Grand Prix,2020-08-09,2020,5.0,3.0,55.0,0,"Ticker
+RACE    181.626505
+dtype: float64","Ticker
+RACE    185.470538
+dtype: float64","Ticker
+RACE    2.11645
+dtype: float64",5,5
+1036,Spanish Grand Prix,2020-08-16,2020,6.0,5.0,61.0,0,"Ticker
+RACE    185.470538
+dtype: float64","Ticker
+RACE    190.549084
+dtype: float64","Ticker
+RACE    2.738196
+dtype: float64",5,5
+1037,Belgian Grand Prix,2020-08-30,2020,7.0,5.0,61.0,0,"Ticker
+RACE    191.877228
+dtype: float64","Ticker
+RACE    189.123419
+dtype: float64","Ticker
+RACE   -1.435193
+dtype: float64",5,5
+1038,Italian Grand Prix,2020-09-06,2020,8.0,6.0,61.0,0,"Ticker
+RACE    189.123419
+dtype: float64","Ticker
+RACE    184.659204
+dtype: float64","Ticker
+RACE   -2.360477
+dtype: float64",5,5
+1039,Tuscan Grand Prix,2020-09-13,2020,9.0,6.0,66.0,0,"Ticker
+RACE    184.610449
+dtype: float64","Ticker
+RACE    185.371066
+dtype: float64","Ticker
+RACE    0.412012
+dtype: float64",5,5
+1040,Russian Grand Prix,2020-09-27,2020,10.0,6.0,74.0,0,"Ticker
+RACE    178.073083
+dtype: float64","Ticker
+RACE    178.488486
+dtype: float64","Ticker
+RACE    0.233276
+dtype: float64",5,5
+1041,Eifel Grand Prix,2020-10-11,2020,11.0,6.0,80.0,0,"Ticker
+RACE    176.828802
+dtype: float64","Ticker
+RACE    182.367618
+dtype: float64","Ticker
+RACE    3.132304
+dtype: float64",5,5
+1042,Portuguese Grand Prix,2020-10-25,2020,12.0,6.0,93.0,0,"Ticker
+RACE    185.649945
+dtype: float64","Ticker
+RACE    176.475797
+dtype: float64","Ticker
+RACE   -4.941638
+dtype: float64",5,5
+1043,Emilia Romagna Grand Prix,2020-11-01,2020,13.0,6.0,103.0,0,"Ticker
+RACE    176.475797
+dtype: float64","Ticker
+RACE    194.342386
+dtype: float64","Ticker
+RACE    10.124102
+dtype: float64",5,5
+1044,Turkish Grand Prix,2020-11-15,2020,14.0,6.0,130.0,0,"Ticker
+RACE    201.23862
+dtype: float64","Ticker
+RACE    205.942706
+dtype: float64","Ticker
+RACE    2.337566
+dtype: float64",5,5
+1045,Bahrain Grand Prix,2020-11-29,2020,15.0,6.0,131.0,0,"Ticker
+RACE    205.780835
+dtype: float64","Ticker
+RACE    207.892996
+dtype: float64","Ticker
+RACE    1.026413
+dtype: float64",5,5
+1046,Sakhir Grand Prix,2020-12-06,2020,16.0,6.0,131.0,0,"Ticker
+RACE    207.892996
+dtype: float64","Ticker
+RACE    208.374728
+dtype: float64","Ticker
+RACE    0.231721
+dtype: float64",5,5
+1047,Abu Dhabi Grand Prix,2020-12-13,2020,17.0,6.0,131.0,0,"Ticker
+RACE    208.374728
+dtype: float64","Ticker
+RACE    216.30264
+dtype: float64","Ticker
+RACE    3.804641
+dtype: float64",5,5
+1052,Bahrain Grand Prix,2021-03-28,2021,1.0,4.0,12.0,0,"Ticker
+RACE    198.820255
+dtype: float64","Ticker
+RACE    203.617966
+dtype: float64","Ticker
+RACE    2.41309
+dtype: float64",5,5
+1053,Emilia Romagna Grand Prix,2021-04-18,2021,2.0,4.0,34.0,0,"Ticker
+RACE    205.277655
+dtype: float64","Ticker
+RACE    208.881604
+dtype: float64","Ticker
+RACE    1.755646
+dtype: float64",5,5
+1054,Portuguese Grand Prix,2021-05-02,2021,3.0,4.0,42.0,0,"Ticker
+RACE    212.534851
+dtype: float64","Ticker
+RACE    200.853882
+dtype: float64","Ticker
+RACE   -5.496025
+dtype: float64",5,5
+1055,Spanish Grand Prix,2021-05-09,2021,4.0,4.0,60.0,0,"Ticker
+RACE    200.853882
+dtype: float64","Ticker
+RACE    193.813943
+dtype: float64","Ticker
+RACE   -3.505005
+dtype: float64",5,5
+1056,Monaco Grand Prix,2021-05-23,2021,5.0,4.0,78.0,0,"Ticker
+RACE    201.341895
+dtype: float64","Ticker
+RACE    207.486172
+dtype: float64","Ticker
+RACE    3.051664
+dtype: float64",5,5
+1057,Azerbaijan Grand Prix,2021-06-06,2021,6.0,3.0,94.0,0,"Ticker
+RACE    209.773361
+dtype: float64","Ticker
+RACE    210.361325
+dtype: float64","Ticker
+RACE    0.280285
+dtype: float64",5,5
+1059,French Grand Prix,2021-06-20,2021,7.0,4.0,94.0,0,"Ticker
+RACE    198.643115
+dtype: float64","Ticker
+RACE    198.20018
+dtype: float64","Ticker
+RACE   -0.22298
+dtype: float64",5,5
+1058,Styrian Grand Prix,2021-06-27,2021,8.0,4.0,108.0,0,"Ticker
+RACE    198.20018
+dtype: float64","Ticker
+RACE    201.612369
+dtype: float64","Ticker
+RACE    1.721587
+dtype: float64",5,5
+1060,Austrian Grand Prix,2021-07-04,2021,9.0,4.0,122.0,0,"Ticker
+RACE    201.612369
+dtype: float64","Ticker
+RACE    203.282196
+dtype: float64","Ticker
+RACE    0.828237
+dtype: float64",5,5
+1061,British Grand Prix,2021-07-18,2021,10.0,4.0,148.0,0,"Ticker
+RACE    204.473807
+dtype: float64","Ticker
+RACE    202.492361
+dtype: float64","Ticker
+RACE   -0.969046
+dtype: float64",5,5
+1062,Hungarian Grand Prix,2021-08-01,2021,11.0,3.0,163.0,0,"Ticker
+RACE    209.738083
+dtype: float64","Ticker
+RACE    210.50636
+dtype: float64","Ticker
+RACE    0.366303
+dtype: float64",5,5
+1063,Belgian Grand Prix,2021-08-29,2021,12.0,4.0,165.5,0,"Ticker
+RACE    211.897888
+dtype: float64","Ticker
+RACE    213.777429
+dtype: float64","Ticker
+RACE    0.887003
+dtype: float64",5,5
+1064,Dutch Grand Prix,2021-09-05,2021,13.0,3.0,181.5,0,"Ticker
+RACE    213.777429
+dtype: float64","Ticker
+RACE    215.159155
+dtype: float64","Ticker
+RACE    0.646339
+dtype: float64",5,5
+1065,Italian Grand Prix,2021-09-12,2021,14.0,4.0,201.5,0,"Ticker
+RACE    215.059204
+dtype: float64","Ticker
+RACE    214.961197
+dtype: float64","Ticker
+RACE   -0.045572
+dtype: float64",5,5
+1066,Russian Grand Prix,2021-09-26,2021,15.0,4.0,216.5,0,"Ticker
+RACE    211.335397
+dtype: float64","Ticker
+RACE    206.876636
+dtype: float64","Ticker
+RACE   -2.109803
+dtype: float64",5,5
+1067,Turkish Grand Prix,2021-10-10,2021,16.0,4.0,232.5,0,"Ticker
+RACE    205.524313
+dtype: float64","Ticker
+RACE    214.136078
+dtype: float64","Ticker
+RACE    4.190144
+dtype: float64",5,5
+1069,United States Grand Prix,2021-10-24,2021,17.0,4.0,250.5,0,"Ticker
+RACE    219.065213
+dtype: float64","Ticker
+RACE    228.26496
+dtype: float64","Ticker
+RACE    4.199547
+dtype: float64",5,5
+1070,Mexico City Grand Prix,2021-11-07,2021,18.0,3.0,268.5,0,"Ticker
+RACE    247.746304
+dtype: float64","Ticker
+RACE    252.248199
+dtype: float64","Ticker
+RACE    1.817139
+dtype: float64",5,5
+1071,São Paulo Grand Prix,2021-11-14,2021,19.0,3.0,287.5,0,"Ticker
+RACE    252.248199
+dtype: float64","Ticker
+RACE    258.731522
+dtype: float64","Ticker
+RACE    2.570215
+dtype: float64",5,5
+1051,Qatar Grand Prix,2021-11-21,2021,20.0,3.0,297.5,0,"Ticker
+RACE    258.731522
+dtype: float64","Ticker
+RACE    262.443542
+dtype: float64","Ticker
+RACE    1.4347
+dtype: float64",5,5
+1072,Saudi Arabian Grand Prix,2021-12-05,2021,21.0,3.0,307.5,0,"Ticker
+RACE    255.644681
+dtype: float64","Ticker
+RACE    257.343915
+dtype: float64","Ticker
+RACE    0.664686
+dtype: float64",5,5
+1073,Abu Dhabi Grand Prix,2021-12-12,2021,22.0,3.0,323.5,0,"Ticker
+RACE    257.343915
+dtype: float64","Ticker
+RACE    251.115356
+dtype: float64","Ticker
+RACE   -2.420325
+dtype: float64",5,5
+1074,Bahrain Grand Prix,2022-03-20,2022,1.0,1.0,44.0,1,"Ticker
+RACE    199.158566
+dtype: float64","Ticker
+RACE    206.625772
+dtype: float64","Ticker
+RACE    3.749377
+dtype: float64",5,5
+1075,Saudi Arabian Grand Prix,2022-03-27,2022,2.0,1.0,78.0,1,"Ticker
+RACE    206.625772
+dtype: float64","Ticker
+RACE    215.135629
+dtype: float64","Ticker
+RACE    4.118488
+dtype: float64",5,5
+1076,Australian Grand Prix,2022-04-10,2022,3.0,1.0,104.0,2,"Ticker
+RACE    219.178888
+dtype: float64","Ticker
+RACE    216.848581
+dtype: float64","Ticker
+RACE   -1.063199
+dtype: float64",5,5
+1077,Emilia Romagna Grand Prix,2022-04-24,2022,4.0,1.0,124.0,2,"Ticker
+RACE    215.233096
+dtype: float64","Ticker
+RACE    207.332843
+dtype: float64","Ticker
+RACE   -3.670557
+dtype: float64",5,5
+1078,Miami Grand Prix,2022-05-08,2022,5.0,1.0,157.0,2,"Ticker
+RACE    204.497586
+dtype: float64","Ticker
+RACE    187.965503
+dtype: float64","Ticker
+RACE   -8.084244
+dtype: float64",5,5
+1079,Spanish Grand Prix,2022-05-22,2022,6.0,2.0,169.0,2,"Ticker
+RACE    185.67677
+dtype: float64","Ticker
+RACE    191.404504
+dtype: float64","Ticker
+RACE    3.084788
+dtype: float64",5,5
+1080,Monaco Grand Prix,2022-05-29,2022,7.0,2.0,199.0,2,"Ticker
+RACE    191.404504
+dtype: float64","Ticker
+RACE    190.398254
+dtype: float64","Ticker
+RACE   -0.525719
+dtype: float64",5,5
+1081,Azerbaijan Grand Prix,2022-06-12,2022,8.0,2.0,199.0,2,"Ticker
+RACE    186.564642
+dtype: float64","Ticker
+RACE    171.105875
+dtype: float64","Ticker
+RACE   -8.286011
+dtype: float64",5,5
+1082,Canadian Grand Prix,2022-06-19,2022,9.0,2.0,228.0,2,"Ticker
+RACE    171.105875
+dtype: float64","Ticker
+RACE    183.924713
+dtype: float64","Ticker
+RACE    7.491758
+dtype: float64",5,5
+1083,British Grand Prix,2022-07-03,2022,10.0,2.0,265.0,3,"Ticker
+RACE    183.048685
+dtype: float64","Ticker
+RACE    188.754718
+dtype: float64","Ticker
+RACE    3.117222
+dtype: float64",5,5
+1084,Austrian Grand Prix,2022-07-10,2022,11.0,2.0,303.0,4,"Ticker
+RACE    188.214105
+dtype: float64","Ticker
+RACE    188.006927
+dtype: float64","Ticker
+RACE   -0.110076
+dtype: float64",5,5
+1085,French Grand Prix,2022-07-24,2022,12.0,2.0,314.0,4,"Ticker
+RACE    195.749133
+dtype: float64","Ticker
+RACE    200.60083
+dtype: float64","Ticker
+RACE    2.478528
+dtype: float64",5,5
+1086,Hungarian Grand Prix,2022-07-31,2022,13.0,2.0,334.0,4,"Ticker
+RACE    200.60083
+dtype: float64","Ticker
+RACE    210.698849
+dtype: float64","Ticker
+RACE    5.033887
+dtype: float64",5,5
+1087,Belgian Grand Prix,2022-08-28,2022,14.0,2.0,357.0,4,"Ticker
+RACE    199.428845
+dtype: float64","Ticker
+RACE    192.195694
+dtype: float64","Ticker
+RACE   -3.626933
+dtype: float64",5,5
+1088,Dutch Grand Prix,2022-09-04,2022,15.0,2.0,376.0,4,"Ticker
+RACE    192.195694
+dtype: float64","Ticker
+RACE    192.785635
+dtype: float64","Ticker
+RACE    0.306948
+dtype: float64",5,5
+1089,Italian Grand Prix,2022-09-11,2022,16.0,2.0,406.0,4,"Ticker
+RACE    190.656726
+dtype: float64","Ticker
+RACE    195.459091
+dtype: float64","Ticker
+RACE    2.518854
+dtype: float64",5,5
+1091,Singapore Grand Prix,2022-10-02,2022,17.0,2.0,439.0,4,"Ticker
+RACE    185.124319
+dtype: float64","Ticker
+RACE    187.415021
+dtype: float64","Ticker
+RACE    1.237385
+dtype: float64",5,5
+1092,Japanese Grand Prix,2022-10-09,2022,18.0,2.0,454.0,4,"Ticker
+RACE    187.415021
+dtype: float64","Ticker
+RACE    179.909579
+dtype: float64","Ticker
+RACE   -4.004717
+dtype: float64",5,5
+1093,United States Grand Prix,2022-10-23,2022,19.0,2.0,469.0,4,"Ticker
+RACE    185.901697
+dtype: float64","Ticker
+RACE    193.428833
+dtype: float64","Ticker
+RACE    4.048987
+dtype: float64",5,5
+1094,Mexico City Grand Prix,2022-10-30,2022,20.0,2.0,487.0,4,"Ticker
+RACE    193.428833
+dtype: float64","Ticker
+RACE    192.773792
+dtype: float64","Ticker
+RACE   -0.338647
+dtype: float64",5,5
+1095,São Paulo Grand Prix,2022-11-13,2022,21.0,2.0,524.0,4,"Ticker
+RACE    204.276608
+dtype: float64","Ticker
+RACE    211.513718
+dtype: float64","Ticker
+RACE    3.542799
+dtype: float64",5,5
+1096,Abu Dhabi Grand Prix,2022-11-20,2022,22.0,2.0,554.0,4,"Ticker
+RACE    211.513718
+dtype: float64","Ticker
+RACE    213.514368
+dtype: float64","Ticker
+RACE    0.945872
+dtype: float64",5,5
+1098,Bahrain Grand Prix,2023-03-05,2023,1.0,4.0,12.0,0,"Ticker
+RACE    260.535828
+dtype: float64","Ticker
+RACE    263.321765
+dtype: float64","Ticker
+RACE    1.069311
+dtype: float64",5,5
+1099,Saudi Arabian Grand Prix,2023-03-19,2023,2.0,4.0,26.0,0,"Ticker
+RACE    257.049481
+dtype: float64","Ticker
+RACE    261.581549
+dtype: float64","Ticker
+RACE    1.763111
+dtype: float64",5,5
+1100,Australian Grand Prix,2023-04-02,2023,3.0,4.0,26.0,0,"Ticker
+RACE    264.621997
+dtype: float64","Ticker
+RACE    267.790698
+dtype: float64","Ticker
+RACE    1.197444
+dtype: float64",5,5
+1101,Azerbaijan Grand Prix,2023-04-30,2023,4.0,4.0,62.0,0,"Ticker
+RACE    276.166919
+dtype: float64","Ticker
+RACE    282.420819
+dtype: float64","Ticker
+RACE    2.264536
+dtype: float64",5,5
+1102,Miami Grand Prix,2023-05-07,2023,5.0,4.0,78.0,0,"Ticker
+RACE    282.420819
+dtype: float64","Ticker
+RACE    292.766455
+dtype: float64","Ticker
+RACE    3.663199
+dtype: float64",5,5
+1104,Monaco Grand Prix,2023-05-28,2023,6.0,4.0,90.0,0,"Ticker
+RACE    289.294733
+dtype: float64","Ticker
+RACE    290.566571
+dtype: float64","Ticker
+RACE    0.439634
+dtype: float64",5,5
+1105,Spanish Grand Prix,2023-06-04,2023,7.0,4.0,100.0,0,"Ticker
+RACE    289.439801
+dtype: float64","Ticker
+RACE    294.932568
+dtype: float64","Ticker
+RACE    1.897724
+dtype: float64",5,5
+1106,Canadian Grand Prix,2023-06-18,2023,8.0,4.0,122.0,0,"Ticker
+RACE    301.587885
+dtype: float64","Ticker
+RACE    305.194751
+dtype: float64","Ticker
+RACE    1.195959
+dtype: float64",5,5
+1107,Austrian Grand Prix,2023-07-02,2023,9.0,4.0,154.0,0,"Ticker
+RACE    314.864746
+dtype: float64","Ticker
+RACE    316.408844
+dtype: float64","Ticker
+RACE    0.4904
+dtype: float64",5,5
+1108,British Grand Prix,2023-07-09,2023,10.0,4.0,157.0,0,"Ticker
+RACE    317.784021
+dtype: float64","Ticker
+RACE    320.24624
+dtype: float64","Ticker
+RACE    0.774809
+dtype: float64",5,5
+1109,Hungarian Grand Prix,2023-07-23,2023,11.0,4.0,167.0,0,"Ticker
+RACE    320.502594
+dtype: float64","Ticker
+RACE    315.91601
+dtype: float64","Ticker
+RACE   -1.43106
+dtype: float64",5,5
+1110,Belgian Grand Prix,2023-07-30,2023,12.0,4.0,191.0,0,"Ticker
+RACE    315.91601
+dtype: float64","Ticker
+RACE    313.425977
+dtype: float64","Ticker
+RACE   -0.788195
+dtype: float64",5,5
+1111,Dutch Grand Prix,2023-08-27,2023,13.0,4.0,201.0,0,"Ticker
+RACE    308.841376
+dtype: float64","Ticker
+RACE    314.036053
+dtype: float64","Ticker
+RACE    1.681989
+dtype: float64",5,5
+1112,Italian Grand Prix,2023-09-03,2023,14.0,3.0,228.0,0,"Ticker
+RACE    314.036053
+dtype: float64","Ticker
+RACE    299.348254
+dtype: float64","Ticker
+RACE   -4.677106
+dtype: float64",5,5
+1113,Singapore Grand Prix,2023-09-17,2023,15.0,3.0,265.0,1,"Ticker
+RACE    298.779895
+dtype: float64","Ticker
+RACE    294.415881
+dtype: float64","Ticker
+RACE   -1.460612
+dtype: float64",5,5
+1114,Japanese Grand Prix,2023-09-24,2023,16.0,3.0,285.0,1,"Ticker
+RACE    294.415881
+dtype: float64","Ticker
+RACE    288.43822
+dtype: float64","Ticker
+RACE   -2.030346
+dtype: float64",5,5
+1115,Qatar Grand Prix,2023-10-08,2023,17.0,3.0,298.0,1,"Ticker
+RACE    297.309332
+dtype: float64","Ticker
+RACE    305.367657
+dtype: float64","Ticker
+RACE    2.710418
+dtype: float64",5,5
+1116,United States Grand Prix,2023-10-22,2023,18.0,3.0,322.0,1,"Ticker
+RACE    304.286591
+dtype: float64","Ticker
+RACE    297.873706
+dtype: float64","Ticker
+RACE   -2.107515
+dtype: float64",5,5
+1117,Mexico City Grand Prix,2023-10-29,2023,19.0,3.0,349.0,1,"Ticker
+RACE    297.873706
+dtype: float64","Ticker
+RACE    310.178809
+dtype: float64","Ticker
+RACE    4.13098
+dtype: float64",5,5
+1118,São Paulo Grand Prix,2023-11-05,2023,20.0,3.0,362.0,1,"Ticker
+RACE    310.178809
+dtype: float64","Ticker
+RACE    333.767529
+dtype: float64","Ticker
+RACE    7.604878
+dtype: float64",5,5
+1119,Las Vegas Grand Prix,2023-11-19,2023,21.0,3.0,388.0,1,"Ticker
+RACE    349.768903
+dtype: float64","Ticker
+RACE    363.023901
+dtype: float64","Ticker
+RACE    3.789645
+dtype: float64",5,5
+1120,Abu Dhabi Grand Prix,2023-11-26,2023,22.0,3.0,406.0,1,"Ticker
+RACE    360.973053
+dtype: float64","Ticker
+RACE    361.740131
+dtype: float64","Ticker
+RACE    0.212503
+dtype: float64",5,5

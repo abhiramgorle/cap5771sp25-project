@@ -264,7 +264,7 @@ def visualize_performance_vs_stock(aligned_data, constructor_name):
     try:
         dates = [d for d in aligned_data['race_date']]
         positions = [float(p) if isinstance(p, (int, float)) else float('nan') for p in aligned_data['position']]
-        price_changes = [float(pc) if isinstance(pc, (int, float)) else float('nan') for pc in aligned_data['price_change_pct']]
+        price_changes = [float(pc.iloc[0]) if isinstance(pc, pd.Series) and not pc.empty else float('nan') for pc in aligned_data['price_change_pct']]
         years = [int(y) if isinstance(y, (int, float)) else 0 for y in aligned_data['year']]
         rounds = [int(r) if isinstance(r, (int, float)) else 0 for r in aligned_data['round']]
     except Exception as e:

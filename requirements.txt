@@ -3,8 +3,8 @@ pandas
 scipy
 matplotlib
 seaborn
-fastf1
 tqdm
 yfinance 
 scikit-learn 
 statsmodels
+tensorflow
